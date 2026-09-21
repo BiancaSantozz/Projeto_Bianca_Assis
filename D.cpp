@@ -17,4 +17,8 @@ public:
     void MD3() { 
         std::cout << "MD3" << std::endl; 
     }
+
+    void MD4() { 
+        std::cout << "MD4" << std::endl; 
+    }
 };
