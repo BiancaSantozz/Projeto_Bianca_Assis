@@ -21,4 +21,8 @@ public:
     void MA2() { 
         std::cout << "MA2" << std::endl; 
     }
+
+    void MA3() { 
+        std::cout << "Alteracao a classe A partir do clone" << std::endl; 
+    }
 };
