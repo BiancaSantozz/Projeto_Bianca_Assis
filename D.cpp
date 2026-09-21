@@ -13,4 +13,8 @@ public:
     void MD2() { 
         std::cout << "Metodo MD2 executado" << std::endl; 
     }
+
+    void MD4() { 
+        std::cout << "MD4" << std::endl; 
+    }
 };
